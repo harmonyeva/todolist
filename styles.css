@@ -1,0 +1,46 @@
+body {
+    background-color: pink;
+    color: black;
+    font-family: Rubik;
+    font-size: 22px;
+    margin: 0;
+}
+
+header {
+    padding-left: 3%;
+}
+
+ul {
+    padding-left: 7%;
+    list-style: none;
+    margin: 0%;
+}
+
+#new {
+    padding-left: 7%;
+    margin-bottom: .5%;
+}
+
+button {
+    font-family: Rubik;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    padding: .5%;
+}
+
+#button {
+    font-family: Rubik;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    padding: .5%;
+}
